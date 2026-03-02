@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #141E30, #243B55);
+    color: white;
+    text-align: center;
+}
+
+.container {
+    padding: 30px;
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.video-box {
+    border: 5px solid white;
+    display: inline-block;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+img {
+    width: 700px;
+    border-radius: 10px;
+}
+
+p {
+    margin-top: 20px;
+    font-size: 18px;
+}
